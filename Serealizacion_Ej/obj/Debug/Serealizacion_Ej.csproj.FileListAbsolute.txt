@@ -1,0 +1,8 @@
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Serealizacion_Ej\obj\Debug\Serealizacion_Ej.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Serealizacion_Ej\obj\Debug\Serealizacion_Ej.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Serealizacion_Ej\obj\Debug\Serealizacion_Ej.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Serealizacion_Ej\bin\Debug\Serealizacion_Ej.exe.config
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Serealizacion_Ej\bin\Debug\Serealizacion_Ej.exe
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Serealizacion_Ej\bin\Debug\Serealizacion_Ej.pdb
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Serealizacion_Ej\obj\Debug\Serealizacion_Ej.exe
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Serealizacion_Ej\obj\Debug\Serealizacion_Ej.pdb
